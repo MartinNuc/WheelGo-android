@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="lasts">
+        <item>3 hodiny</item>
+        <item>6 hodin</item>
+        <item>12 hodin</item>
+        <item>1 týden</item>
+        <item>2 týdny</item>
+        <item>1 měsíc</item>
+        <item>Déle</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>Divadlo</item>
+        <item>Kino</item>
+        <item>Restaurace</item>
+        <item>Samoobsluha</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <ImageView
+            android:src="@drawable/light_bulb_info"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/Icon"
+            android:layout_alignParentTop="true"
+            android:cropToPadding="true"
+            android:scaleType="fitCenter"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginTop="20px"
+            android:layout_marginLeft="25px"
+            android:layout_marginRight="10px"></ImageView>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20px"
+            android:id="@+id/TipDesc"
+            android:textSize="48px"
+            android:layout_marginTop="15px"
+            android:text="Tip"
+            android:gravity="left"
+            android:layout_toRightOf="@+id/Icon"></TextView>
+
+    <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/TipDesc"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/Picture"
+            android:adjustViewBounds="true"
+            android:clickable="true"
+            android:scaleType="centerInside"
+            android:layout_marginBottom="10px"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
+            android:layout_marginTop="5px"
+            android:maxHeight="350px"></ImageView>
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Picture"
+            android:text="Popis tipu"
+            android:id="@+id/Describtion"
+            android:textSize="28px"
+            android:layout_marginLeft="15px"
+            android:layout_marginRight="15px"
+            android:layout_marginBottom="15px"
+            android:layout_marginTop="5px"
+            android:maxHeight="140px"></TextView>
+
+    <Button
+            android:onClick="Back_onClick"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Back"
+            android:padding="29px"
+            android:id="@+id/Back"
+            android:textSize="28px"
+            android:layout_marginBottom="3px"
+            android:layout_marginLeft="20px"
+            android:layout_above="@+id/txtLocation"
+            android:layout_marginRight="20px"
+            android:layout_marginTop="3px"></Button>
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtLocation"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
+            android:layout_marginBottom="0px"
+            android:lines="1"></TextView>
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WheelGo</string>
+    <string name="mnuSettings">Nastavení</string>
+    <string name="mnuExit">Ukončit</string>
+    <string name="Delete">Odstranit</string>
+    <string name="Edit">Upravit</string>
+
+    <string name="txtCategory">Kategorie</string>
+    <string name="Describtion">Popis</string>
+    <string name="Duration">Odhadovaná doba trvání:</string>
+    <string name="MarkAsOutdated">Odstranit problém</string>
+    <string name="Send">Odeslat</string>
+    <string name="Back">Zpět</string>
+    <string name="left_handed">Ovládání pro leváka</string>
+    <string name="reportProblem">Nahlásit problém</string>
+    <string name="satelliteView">Satelitní pohled</string>
+    <string name="centerbutton">Moje poloha</string>
+
+    <string name="reportTip">Nahlásit tip</string>
+    <string name="reportPlace">Nahlásit místo</string>
+    <string name="photo_not_taken">Nic nebylo vyfoceno</string>
+</resources>

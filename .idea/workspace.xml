@@ -1,0 +1,1425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="4in WVGA (Nexus S)" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-16" />
+        <option name="theme" value="Theme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="device" value="2.7in QVGA" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-16" />
+        <option name="theme" value="Theme" />
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="cz.nuc" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="WARN" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" name="Default" comment="" />
+    <ignored path="WheelGo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/AndroidManifest.xml" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1364743000847" ignored="false" />
+    <file path="/VozikApplication.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1364666333812" ignored="false" />
+    <file path="/MapActivity.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1364729619644" ignored="false" />
+    <file path="/SpotsManager.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365590829330" ignored="false" />
+    <file path="/DetailPlace.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366159975111" ignored="false" />
+    <file path="/MainActivity.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366206152492" ignored="false" />
+    <file path="/fragment.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366162101839" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/cz/nuc/vozik/R.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1364735225091" ignored="false" />
+    <file path="/DataNatvrdo.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366151406104" ignored="false" />
+    <file path="/Spot.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365153504682" ignored="false" />
+    <file path="/DetailProblem.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366161837029" ignored="false" />
+    <file path="/ReportTip.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366160016656" ignored="false" />
+    <file path="/ReportProblem.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366164703917" ignored="false" />
+    <file path="/ReportPlace.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366160033478" ignored="false" />
+    <file path="/DetailTip.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365152856104" ignored="false" />
+    <file path="/OverlaySpots.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1364916385467" ignored="false" />
+    <file path="/MyOverlay.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1364916641936" ignored="false" />
+    <file path="/SpotType.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1364922990893" ignored="false" />
+    <file path="/Place.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1364923010189" ignored="false" />
+    <file path="/Problem.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365990471640" ignored="false" />
+    <file path="/Tip.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1364923066460" ignored="false" />
+    <file path="/DataSource.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366215764248" ignored="false" />
+    <file path="/DataFromService.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366216057614" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/cz/nuc/wheelgo/Manifest.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365379931048" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/cz/nuc/wheelgo/BuildConfig.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365379946991" ignored="false" />
+    <file path="/ProblemDTO.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988248774" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/models/XSCMValidator.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/traversal/DocumentTraversal.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/identity/Field.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xinclude/ObjectFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/identity/Selector.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xinclude/XIncludeHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xinclude/XIncludeTextReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/identity/XPathMatcher.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xinclude/XInclude11TextReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/identity/FieldActivator.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xinclude/XIncludeMessageFormatter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/Serializer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/ranges/Range.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/events/MutationEvent.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xpointer/XPointerPart.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xpointer/XPointerHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xpointer/ShortHandPointer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xpointer/XPointerProcessor.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xpointer/ElementSchemePointer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xpointer/XPointerMessageFormatter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/traversers/XSDHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/AttrImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/NodeImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/TextImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/AttrNSImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/ParentNode.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/ASModelImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/ElementImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/AttributeMap.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/DocumentImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/DOMNormalizer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/xpath/XPath.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/ElementNSImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/xpath/XPathFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/ObjectFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/xpath/XPathExpression.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/xpath/XPathFactoryFinder.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/XMLSchemaLoader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/CoreDocumentImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/DeepNodeListImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/DocumentTypeImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/CharacterDataImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/XMLSchemaValidator.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/apps/XParseError.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/XSMessageFormatter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/DeferredAttrNSImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/CatalogException.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/DOMMessageFormatter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/tools/CatalogResolver.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/EntityReferenceImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206900" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/CatalogManager.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/tools/ResolvingParser.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/CatalogEntry.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/tools/ResolvingXMLFilter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/Resolver.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/tools/ResolvingXMLReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/DOMConfigurationImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/DeferredElementNSImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/css/CSSStyleSheet.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom/CoreDOMImplementationImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/helpers/FileURL.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/css/CSSMediaRule.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/util/EventReaderDelegate.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/css/DocumentCSS.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/helpers/BootstrapResolver.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/util/StreamReaderDelegate.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/css/ViewCSS.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/readers/CatalogReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/events/EndElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/dtd/DTDGrammar.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/dtd/XMLDTDLoader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/dtd/XMLContentSpec.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/html/HTMLSelectElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/dtd/XMLDTDProcessor.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/dtd/XMLDTDValidator.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/XMLEventReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/XMLEventWriter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/XMLEventFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/XMLInputFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/dtd/BalancedDTDGrammar.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/XMLStreamReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/XMLStreamWriter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/XMLOutputFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/parser/XMLDTDScanner.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/parser/XMLErrorHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/stream/FactoryConfigurationError.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/parser/XMLEntityResolver.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/parser/XMLDocumentScanner.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/parser/XMLComponentManager.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/parser/XMLParserConfiguration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/parser/XMLDTDContentModelSource.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/parser/XMLPullParserConfiguration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFilterPrimitiveStandardAttributes.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegCurvetoQuadraticSmoothRel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/msg/XMLMessageFormatter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/parsers/SAXParser.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegCurvetoQuadraticSmoothAbs.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGComponentTransferFunctionElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/parsers/DocumentBuilder.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegCurvetoCubicSmoothRel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegCurvetoCubicSmoothAbs.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/parsers/SAXParserFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedPreserveAspectRatio.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/parsers/DocumentBuilderFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegLinetoHorizontalRel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegLinetoHorizontalAbs.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/grammars/Grammar.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegCurvetoQuadraticRel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegCurvetoQuadraticAbs.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEComponentTransferElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/grammars/XMLGrammarLoader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFESpecularLightingElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGExternalResourcesRequired.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEPointLightElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEMorphologyElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGElementInstanceList.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGColorProfileElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedEnumeration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/datatype/Duration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/Augmentations.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/XMLAttributes.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGTextContentElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/datatype/DatatypeFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/XMLDTDHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/datatype/DatatypeConstants.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/XMLDocumentHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFESpotLightElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/datatype/XMLGregorianCalendar.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEMergeNodeElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/XMLDTDContentModelHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xni/XMLDocumentFragmentHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xpath/regex/Match.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xpath/regex/Token.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xpath/regex/REUtil.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/namespace/QName.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xpath/regex/RegularExpression.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegLinetoVerticalRel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegLinetoVerticalAbs.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEDisplacementMapElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xpath/XPath.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEDiffuseLightingElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEConvolveMatrixElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGTextPositioningElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegCurvetoCubicRel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegCurvetoCubicAbs.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGRadialGradientElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/validation/EntityState.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGLinearGradientElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/readers/DOMCatalogReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom3/as/ASModel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEGaussianBlurElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEDistantLightElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom3/as/DocumentAS.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedTransformList.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/Constants.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom3/as/NodeEditAS.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/XMLScanner.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom3/as/DOMASWriter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGForeignObjectElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206901" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/XMLEntityHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEColorMatrixElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/XMLEntityManager.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/XMLEntityScanner.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom3/as/ElementEditAS.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPreserveAspectRatio.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/XMLDTDScannerImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/XML11EntityScanner.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/transform/dom/DOMResult.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/XMLNamespaceBinder.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/transform/dom/DOMSource.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom3/as/ASNamedObjectMap.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFETurbulenceElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/XMLVersionDetector.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFECompositeElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/dom3/as/CharacterDataEditAS.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedNumberList.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedLengthList.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegMovetoRel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/ExternalSubsetResolver.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegMovetoAbs.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/XMLDocumentScannerImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegLinetoRel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegLinetoAbs.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGColorProfileRule.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/XMLDocumentFragmentScannerImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/transform/sax/SAXSource.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimationElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedPathData.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGTextPathElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGGradientElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/Catalog.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGGlyphRefElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/transform/stax/StAXResult.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEOffsetElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/transform/stax/StAXSource.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGElementInstance.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGClipPathElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedInteger.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/EncodingInfo.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedBoolean.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/OutputFormat.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAltGlyphElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/DOMSerializer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/IndentPrinter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPatternElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/LineSeparator.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/transform/stream/StreamSource.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/ObjectFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEImageElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/XMLSerializer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/HTMLSerializer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/TextSerializer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/jaxp/datatype/DurationImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/XHTMLSerializer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/transform/OutputKeys.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEFloodElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206902" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/XML11Serializer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/transform/Transformer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFEBlendElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/DOMSerializerImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGEllipseElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/jaxp/datatype/XMLGregorianCalendarImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/SerializerFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/serialize/BaseMarkupSerializer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedString.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedPoints.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedNumber.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/transform/TransformerFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedLength.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGTransform.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPointList.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGLocatable.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGLangSpace.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGViewSpec.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGStylable.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGICCColor.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGDocument.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSeg.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/validation/Schema.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGNumber.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/validation/Validator.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGMatrix.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/validation/SchemaFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGLength.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGTests.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/validation/TypeInfoProvider.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPoint.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/validation/ValidatorHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPaint.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/validation/SchemaFactoryFinder.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/javax/xml/validation/SchemaFactoryLoader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGColor.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAngle.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGRect.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/jaxp/validation/Util.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGTransformList.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGTransformable.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGScriptElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegArcRel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegArcAbs.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/jaxp/validation/DOMDocumentHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGMarkerElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFilterElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFETileElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/jaxp/validation/ReadOnlyGrammarPool.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGCursorElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGCircleElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedAngle.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/jaxp/validation/DraconianErrorHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGURIReference.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGStyleElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGImageElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/css/CSSPrimitiveValue.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/jaxp/validation/JAXPValidationMessageFormatter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/css/CSSStyleDeclaration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGFitToViewBox.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/jaxp/validation/XMLSchemaValidatorComponentManager.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/css/DOMImplementationCSS.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGAnimatedRect.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGViewElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGStopElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGRectElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/jaxp/JAXPValidatorComponent.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathSegList.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGPathElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGMaskElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/jaxp/SchemaValidatorConfiguration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGLineElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/html/dom/ObjectFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/GetSVGDocument.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGZoomAndPan.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGUseElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGSVGElement.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/html/dom/HTMLDocumentImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGStringList.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGNumberList.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGLengthList.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/svg/SVGZoomEvent.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/html/dom/HTMLCollectionImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/stax/events/StartElementImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/html/dom/HTMLAppletElementImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/html/dom/HTMLDOMImplementationImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/dv/util/ByteListImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/dv/ObjectFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/dv/ValidationContext.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/io/UCSReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/io/UTF8Reader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/io/ASCIIReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/io/UTF16Reader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/io/Latin1Reader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/URI.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/SymbolTable.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/LocatorProxy.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/AttributesProxy.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/MessageFormatter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/ErrorHandlerProxy.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/XMLCatalogResolver.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/ErrorHandlerWrapper.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/SAXMessageFormatter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/EntityResolverWrapper.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/DOMErrorHandlerWrapper.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/readers/TR9401CatalogReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/EntityResolver2Wrapper.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/readers/TextCatalogReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/DatatypeMessageFormatter.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xml/resolver/readers/SAXCatalogReader.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/DOMEntityResolverWrapper.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/SoftReferenceSymbolTable.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xs/XSModel.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/util/ParserConfigurationSettings.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206903" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/events/EventTarget.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/events/MouseEvent.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xs/XSNamedMap.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/events/UIEvent.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/events/Event.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/opti/TextImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xs/PSVIProvider.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/opti/DefaultText.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xs/XSAnnotation.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/opti/DefaultDocument.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/opti/SchemaDOMParser.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xs/XSAttributeUse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/opti/SchemaParsingConfig.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xs/XSImplementation.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/opti/DefaultXMLDocumentHandler.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xs/XSTypeDefinition.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xs/XSElementDeclaration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/xs/XSAttributeDeclaration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/smil/TimeEvent.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/DOMParser.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/DTDParser.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/XMLParser.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/DOMParserImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/ObjectFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/xpath/XPathExpression.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/DOMASBuilderImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/impl/xs/util/XSNamedMapImpl.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/DTDConfiguration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/w3c/dom/xpath/XPathEvaluator.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/AbstractDOMParser.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/AbstractSAXParser.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/XML11Configuration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/XMLGrammarPreparser.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/XML11DTDConfiguration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/BasicParserConfiguration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/AbstractXMLDocumentParser.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/NonValidatingConfiguration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/StandardParserConfiguration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/XMLGrammarCachingConfiguration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988206904" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mf/org/apache/xerces/parsers/XML11NonValidatingConfiguration.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988209030" ignored="false" />
+    <file path="/ReportDTO.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365988277374" ignored="false" />
+    <file path="/AddProblemResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1365992911610" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/package-info.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetPlaceDetail.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/PlaceDTO.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/EditPlace.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetProblemDetail.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetTipDetailResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetReport.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/EditProblem.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/DeleteSpotResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetReportsAround.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/DeleteSpot.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetTipDetail.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/Location.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/AddTipResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetReportResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/AddTip.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/PhotoDTO.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/NavigateResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/EditTipResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/WheelGoService.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/WheelGoService_WheelGoServicePort_Client.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/TipDTO.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetImageResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetProblemDetailResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetImage.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/EditPlaceResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetReportsAroundResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/EditTip.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/ProblemDTO.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/EditProblemResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/ReportDTO.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/WheelGoService_Service.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/ObjectFactory.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/GetPlaceDetailResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/AddPlace.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/AddPlaceResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/AddProblem.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/AddProblemResponse.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="D:/temp/wheelgostub/wsClientStub/service/Navigate.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366212481672" ignored="false" />
+    <file path="/map.xml" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366220764465" ignored="false" />
+    <file path="/Dummy.txt" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366220146539" ignored="false" />
+    <file path="/pen_content.xml" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366220338842" ignored="false" />
+    <file path="/MultiDirectionSlidingDrawer.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1366310073165" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/cz/nuc/wheelgo/R.java" changelist="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" time="1372075541115" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WheelGo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="275" column="12" selection-start="9647" selection-end="9647" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attrs.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/attrs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="8" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pen_content.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/pen_content.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="98" column="40" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/map.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="129" column="0" selection-start="5777" selection-end="5777" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataFromService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/datasource/DataFromService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="224" column="0" selection-start="7884" selection-end="7884" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataSource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/datasource/DataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="36" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestData.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/datasource/TestData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="333" column="8" selection-start="8080" selection-end="8080" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiDirectionSlidingDrawer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/it/sephiroth/demo/slider/widget/MultiDirectionSlidingDrawer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="101" column="4" selection-start="3598" selection-end="3598" vertical-scroll-proportion="0.99699247">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapmenu.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/menu/mapmenu.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="7" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/ReportTip.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/ReportPlace.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/DetailProblem.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/DetailTip.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/DetailPlace.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/ReportProblem.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/service/WheelGoService_WheelGoServicePort_Client.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/service/WheelGoService.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/datasource/DataSource.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/reportingsystem/Node.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/datasource/TestData.java" />
+        <option value="$PROJECT_DIR$/src/cz/nuc/wheelgo/datasource/DataFromService.java" />
+        <option value="$PROJECT_DIR$/res/layout/pen_content.xml" />
+        <option value="$PROJECT_DIR$/res/layout/map.xml" />
+        <option value="$PROJECT_DIR$/src/it/sephiroth/demo/slider/widget/MultiDirectionSlidingDrawer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1186" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>IDEA Platform Inspections</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wheelgo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-hdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheelGo-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/xercesImpl.jar!/" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="AndroidTargetDevices" value="015d3f18cd080217" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="Downloaded.Files.Path" value="D:\Android\intellij\WheelGo-android\lib" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Android\intellij\WheelGo-android\src" />
+      <recent name="D:\Android\intellij\WheelGo-android\res\values" />
+      <recent name="D:\Android\intellij\WheelGo-android\res\drawable" />
+      <recent name="D:\Android\intellij\WheelGo-android\res\drawable-hdpi" />
+      <recent name="D:\Android\intellij\WheelGo-android\res\layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Android\intellij\WheelGo-android\src\cz\nuc\wheelgo\service" />
+      <recent name="D:\Android\intellij\WheelGo-android\libs" />
+      <recent name="D:\Android\intellij\WheelGo-android\src\cz\nuc\wheelgo\ServiceClient" />
+      <recent name="D:\Android\intellij\WheelGo-android\res\drawable-xhdpi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.WheelGo-android">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WheelGo-android" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="WheelGo-android" />
+      <option name="ACTIVITY_CLASS" value="cz.nuc.wheelgo.MainActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.WheelGo-android" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad671f7d-93b2-43dc-9af3-d76fecafa1fd" name="Default" comment="" />
+      <created>1364664991411</created>
+      <updated>1364664991411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39766082" sideWeight="0.92254275" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32651073" sideWeight="0.5032017" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32651073" sideWeight="0.49626467" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32651073" sideWeight="0.77350426" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32846004" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16221985" sideWeight="0.16959064" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16221985" sideWeight="0.5038986" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32163742" sideWeight="0.49358973" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32817504" sideWeight="0.6023392" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276414" sideWeight="0.07309941" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294347" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32846004" sideWeight="0.49786553" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.6725146" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/datasource/TestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="333" column="8" selection-start="8080" selection-end="8080" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/WheelGoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/service/WheelGoService_WheelGoServicePort_Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="46" selection-start="5633" selection-end="5633" vertical-scroll-proportion="-40.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/service/WheelGoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="35" selection-start="9579" selection-end="9579" vertical-scroll-proportion="-51.02" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/reportingsystem/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="30" selection-start="245" selection-end="245" vertical-scroll-proportion="0.3167702" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/reportingsystem/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="208" selection-end="208" vertical-scroll-proportion="0.23757765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/reportingsystem/SpotsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="0" selection-start="1950" selection-end="1950" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/datasource/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="36" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/datasource/TestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="333" column="8" selection-start="8080" selection-end="8080" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/datasource/DataFromService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="224" column="0" selection-start="7884" selection-end="7884" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/mapmenu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="7" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/nuc/wheelgo/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="275" column="12" selection-start="9647" selection-end="9647" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/pen_content.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="40" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="8" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/map.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="0" selection-start="5777" selection-end="5777" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/sephiroth/demo/slider/widget/MultiDirectionSlidingDrawer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="4" selection-start="3598" selection-end="3598" vertical-scroll-proportion="0.99699247">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android 4.1.2 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WheelGo-android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>android-support-v4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
