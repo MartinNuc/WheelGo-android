@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="expiration">
+        <item>3 hodiny</item>
+        <item>6 hodin</item>
+        <item>12 hodin</item>
+        <item>1 týden</item>
+        <item>2 týdny</item>
+        <item>1 měsíc</item>
+        <item>Déle</item>
+    </string-array>
+</resources>

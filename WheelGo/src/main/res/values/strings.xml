@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WheelGo</string>
+    <string name="title_section1">Mapa</string>
+    <string name="title_problems_to_avoid">Vyhnout se těmto</string>
+    <string name="title_navigation_problems">Problémy na trase</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_new_problem">Nahlásit problém</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="report">Nahlásit</string>
+    <string name="from">Z</string>
+    <string name="to">Do</string>
+    <string name="navigate">Navigovat</string>
+    <string name="description">Popis</string>
+    <string name="name">Krátký popis</string>
+    <string name="details">Podrobnosti</string>
+    <string name="action_map_type">Přepnout mapu</string>
+    <string name="server_ip">Server IP</string>
+    <string name="settings">Nastavení</string>
+    <string name="max_incline">Maximální sklon</string>
+    <string name="delete">Vymazat</string>
+    <string name="action_refresh">Obnovit</string>
+    <string name="take_photo">Pořídit fotografii</string><string name="avoid_report">Vyhnout se tomuto hlášení</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:title="@string/server_ip" android:key="server_ip" android:defaultValue="wheelgo-nuc.rhcloud.com"/>
+    <EditTextPreference android:title="@string/max_incline" android:key="max_incline" android:defaultValue="30"/>
+</PreferenceScreen>
