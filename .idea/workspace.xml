@@ -77,10 +77,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WheelGoMapFragment.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="WheelGoMapFragment.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/WheelGoMapFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9571">
+            <state line="430" column="0" selection-start="16195" selection-end="16195" vertical-scroll-proportion="-0.0993184" vertical-offset="7310" max-vertical-offset="9826">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,86 +88,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="119">
+            <state line="151" column="5" selection-start="5123" selection-end="5123" vertical-scroll-proportion="0.0" vertical-offset="2567" max-vertical-offset="4267">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <file leaf-file-name="fragment_navigation_setup.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_navigation_setup.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="29" selection-start="84" selection-end="84" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="136">
+            <state line="8" column="63" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WheelGo/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="4" selection-start="373" selection-end="373" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="629">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GooglePlayServices/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="8" selection-start="311" selection-end="311" vertical-scroll-proportion="0.543771" vertical-offset="0" max-vertical-offset="594">
-              <folding />
-            </state>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ProblemDetailActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemDetailActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="0" selection-start="5225" selection-end="5225" vertical-scroll-proportion="0.0" vertical-offset="2414" max-vertical-offset="3536">
+            <state line="35" column="13" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="3485">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddProblemActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/AddProblemActivity.java">
+      <file leaf-file-name="map.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/map.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="228" column="30" selection-start="7982" selection-end="7982" vertical-scroll-proportion="0.0" vertical-offset="3876" max-vertical-offset="4505">
+            <state line="39" column="15" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1513">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arrays.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/values/arrays.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="12" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProblemDto.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/dto/ProblemDto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="5" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="799">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_problem_detail.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/activity_problem_detail.xml">
-          <provider editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="1511" selection-end="1511" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1054">
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
         </entry>
@@ -194,15 +152,23 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="WheelGoAndroid" />
+              <option name="name" value="WheelGo-android" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="WheelGoAndroid" />
+                <option name="name" value="GooglePlayServices" />
+                <option name="path" value="$PROJECT_DIR$/GooglePlayServices" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="WheelGo-android" />
                 <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="google-play-services_lib" />
+                <option name="path" value="$PROJECT_DIR$/google-play-services_lib" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value="WheelGo" />
@@ -215,6 +181,344 @@
     </option>
     <option name="availableTasks">
       <map>
+        <entry key="$PROJECT_DIR$/GooglePlayServices">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the Android dependencies of the project" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="androidDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all variants of all applications and secondary packages." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Debug builds" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="assembleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Release builds" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="assembleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the Test build for the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="assembleTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in Debug." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="bundleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in Release." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="bundleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks on currently connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="connectedCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for Build 'Debug' on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="connectedInstrumentTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="copyDebugLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="copyReleaseLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="deviceCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="dexTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the Test build for the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="installTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="lint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="lintDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="lintRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="lintTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeDebugProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeReleaseProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageDebugJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageDebugLocalJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageReleaseJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageReleaseLocalJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="preBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="preDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="preTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="prepareDebugDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="prepareReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="prepareTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processTestTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the signing info for each variant" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="signingReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstall all applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="uninstallAll" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Test build for the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="uninstallTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="validateDebugSigning" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/WheelGo">
           <value>
             <list>
@@ -439,6 +743,11 @@
                 <option name="name" value="preTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services:3.1.36" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/WheelGo" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServices3136Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/WheelGo" />
                 <option name="name" value="prepareDebugDependencies" />
               </ExternalTaskPojo>
@@ -449,6 +758,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/WheelGo" />
                 <option name="name" value="prepareTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare WheelGo-android:GooglePlayServices:unspecified" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/WheelGo" />
+                <option name="name" value="prepareWheelGoAndroidGooglePlayServicesUnspecifiedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/WheelGo" />
@@ -522,6 +836,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="D:\programming\WheelGo-android" value="1383562289264" />
         <entry key="D:\programming\WheelGoAndroid" value="1383562289264" />
       </map>
     </option>
@@ -532,7 +847,6 @@
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/ProblemDto.java" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/res/menu/main.xml" />
-        <option value="$PROJECT_DIR$/WheelGo/src/main/res/layout/map.xml" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/MapFragment.java" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/dto/Route.java" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/dto/NavigationNode.java" />
@@ -547,25 +861,26 @@
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/SettingsActivity.java" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/NavigationDrawerFragment.java" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_navigation_setup.xml" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemListFragment.java" />
-        <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/MainActivity.java" />
-        <option value="$PROJECT_DIR$/WheelGo/build.gradle" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemToAvoidListFragment.java" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/WheelGoService.java" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/res/menu/activity_problem_detail.xml" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/ProblemDetailActivity.java" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/res/menu/map_menu.xml" />
-        <option value="$PROJECT_DIR$/WheelGo/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/res/menu/activity_add_problem.xml" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/res/layout/activity_add_problem.xml" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/res/values/arrays.xml" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/AddProblemActivity.java" />
         <option value="$PROJECT_DIR$/WheelGo/src/main/res/layout/activity_problem_detail.xml" />
-        <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemDetailActivity.java" />
-        <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/WheelGoMapFragment.java" />
-        <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/dto/ProblemDto.java" />
         <option value="$PROJECT_DIR$/GooglePlayServices/build.gradle" />
+        <option value="$PROJECT_DIR$/WheelGo/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/WheelGo/build.gradle" />
+        <option value="$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_navigation_setup.xml" />
+        <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/dto/ProblemDto.java" />
+        <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemDetailActivity.java" />
+        <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/MainActivity.java" />
+        <option value="$PROJECT_DIR$/WheelGo/src/main/res/layout/map.xml" />
+        <option value="$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/WheelGoMapFragment.java" />
       </list>
     </option>
   </component>
@@ -601,6 +916,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -609,48 +926,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WheelGo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WheelGo-android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WheelGo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WheelGo-android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WheelGo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WheelGo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WheelGo-android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GooglePlayServices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -668,7 +945,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="HT2AFLY02942" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="015d3f18cd080217" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Android_emulator" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/android-support-v4.jar!/" />
@@ -685,18 +962,18 @@
       <recent name="cz.nuc.wheelgo.androidclient" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programming\WheelGo-android\WheelGo\src\main\res\drawable-xhdpi" />
       <recent name="D:\programming\WheelGoAndroid\WheelGo\src\main\res\values" />
       <recent name="D:\programming\WheelGoAndroid\WheelGo\src\main\res\drawable-xhdpi" />
       <recent name="D:\programming\WheelGoAndroid\WheelGo\src\main\res\drawable-xxhdpi" />
       <recent name="D:\programming\WheelGoAndroid\WheelGo\src\main\java\cz\nuc\wheelgo\androidclient\service\dto" />
-      <recent name="D:\programming\WheelGoAndroid\WheelGo\src\main\res\xml" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="cz.nuc.wheelgo.androidclient" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\programming\WheelGoAndroid\WheelGo\src\main\res\drawable-xhdpi" />
       <recent name="D:\programming\WheelGoAndroid\WheelGo\src\main\res\drawable-hdpi" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cz.nuc.wheelgo.androidclient" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.WheelGo">
@@ -895,14 +1172,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38746437" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38746437" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -916,7 +1193,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921028" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -944,11 +1221,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GooglePlayServices/libs/google-play-services.jar.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="679" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradlew.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="0" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0" vertical-offset="953" max-vertical-offset="1632" />
@@ -964,26 +1236,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="666" selection-end="666" vertical-scroll-proportion="-10.88" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/map.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="35" selection-start="275" selection-end="275" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="679">
@@ -993,26 +1245,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/dto/NavigationNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
+        <state line="13" column="1" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/dto/Route.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.3090909" vertical-offset="0" max-vertical-offset="605" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/GooglePlayServices/libs/google-play-services.jar!/com/google/android/gms/maps/GoogleMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="101" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.4637931" vertical-offset="241" max-vertical-offset="2992" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/info_window.xml">
@@ -1074,9 +1317,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/dto/NavigationParameters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="18" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
+        <state line="16" column="18" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/xml/preferences.xml">
@@ -1096,63 +1337,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_navigation_drawer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_navigation_overview.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="226" selection-end="454" vertical-scroll-proportion="-3.4" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_navigation_setup.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="77" selection-start="362" selection-end="388" vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="489" selection-end="1162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/NavigationDrawerFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="154" column="0" selection-start="6227" selection-end="6227" vertical-scroll-proportion="0.0" vertical-offset="2091" max-vertical-offset="4386" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0" vertical-offset="134" max-vertical-offset="3672">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemToAvoidListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="102" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="629" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/build/source/r/debug/cz/nuc/wheelgo/androidclient/R.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="170" column="5" selection-start="8340" selection-end="8340" vertical-scroll-proportion="0.2942073" vertical-offset="2612" max-vertical-offset="10608">
-          <folding />
-        </state>
+        <state line="170" column="5" selection-start="8340" selection-end="8340" vertical-scroll-proportion="0.2942073" vertical-offset="2612" max-vertical-offset="10608" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/menu/global.xml">
@@ -1170,16 +1362,6 @@
           <folding>
             <element signature="e#172#197#0" expanded="false" />
             <element signature="e#172#197#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
-          <folding>
-            <element signature="e#2057#2075#0" expanded="true" />
-            <element signature="e#2677#2695#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1222,9 +1404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/WheelGoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="21" selection-start="2873" selection-end="2873" vertical-scroll-proportion="0.0" vertical-offset="622" max-vertical-offset="1241">
-          <folding />
-        </state>
+        <state line="76" column="21" selection-start="2873" selection-end="2873" vertical-scroll-proportion="0.0" vertical-offset="622" max-vertical-offset="1241" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/values/arrays.xml">
@@ -1241,13 +1421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemDetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="0" selection-start="5225" selection-end="5225" vertical-scroll-proportion="0.0" vertical-offset="2157" max-vertical-offset="3536">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/activity_problem_detail.xml">
       <provider editor-type-id="text-editor">
         <state line="39" column="0" selection-start="1511" selection-end="1511" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1054">
@@ -1258,20 +1431,24 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/dto/ProblemDto.java">
+    <entry file="file://$PROJECT_DIR$/GooglePlayServices/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="5" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="799">
+        <state line="13" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="666" selection-end="666" vertical-scroll-proportion="0.45791245" vertical-offset="0" max-vertical-offset="594">
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/WheelGoMapFragment.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9469">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="2" column="29" selection-start="84" selection-end="84" vertical-scroll-proportion="0.057239056" vertical-offset="0" max-vertical-offset="594" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -1281,24 +1458,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="84" selection-end="84" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="136">
+        <state line="7" column="33" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WheelGo/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="4" selection-start="373" selection-end="373" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="629">
+        <state line="13" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="629">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GooglePlayServices/build.gradle">
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/content/Intent.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="8" selection-start="311" selection-end="311" vertical-scroll-proportion="0.543771" vertical-offset="0" max-vertical-offset="594">
+        <state line="448" column="34" selection-start="31652" selection-end="31652" vertical-scroll-proportion="0.33333334" vertical-offset="7397" max-vertical-offset="9418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/service/dto/ProblemDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="34" selection-start="420" selection-end="420" vertical-scroll-proportion="0.46688208" vertical-offset="0" max-vertical-offset="833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_navigation_overview.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="25" selection-start="265" selection-end="265" vertical-scroll-proportion="0.17171717" vertical-offset="0" max-vertical-offset="594">
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_navigation_drawer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.25757575" vertical-offset="0" max-vertical-offset="594">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="32" selection-start="896" selection-end="896" vertical-scroll-proportion="0.38449112" vertical-offset="0" max-vertical-offset="619" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemToAvoidListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="155" selection-start="736" selection-end="736" vertical-scroll-proportion="0.35702747" vertical-offset="0" max-vertical-offset="619" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/GooglePlayServices/libs/google-play-services.jar!/com/google/android/gms/maps/GoogleMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="14" selection-start="350" selection-end="350" vertical-scroll-proportion="0.25757575" vertical-offset="0" max-vertical-offset="2992" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/fragment_navigation_setup.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="63" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/ProblemDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="13" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3128">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="5" selection-start="5123" selection-end="5123" vertical-scroll-proportion="0.0" vertical-offset="2067" max-vertical-offset="4165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/res/layout/map.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="15" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WheelGo/src/main/java/cz/nuc/wheelgo/androidclient/WheelGoMapFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="430" column="0" selection-start="16195" selection-end="16195" vertical-scroll-proportion="-0.0993184" vertical-offset="7310" max-vertical-offset="9826">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

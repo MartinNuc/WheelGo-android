@@ -1,12 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
     <fragment
         android:id="@+id/googlemap"
         android:name="cz.nuc.wheelgo.androidclient.WheelGoMapFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
-</LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/curtainZoom"
+        android:layout_width="95dip"
+        android:layout_height="165dip"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="#55000000"
+        android:clickable="true"
+        android:gravity="right"
+        android:orientation="vertical"
+        android:paddingBottom="8dip"
+        android:paddingLeft="8dip"
+        android:paddingRight="8dip"
+        android:paddingTop="8dip" >
+
+        <ImageButton
+            android:id="@+id/zoomIn_button"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="2dip"
+            android:layout_weight="1"
+            android:background="#10555555"
+            android:cropToPadding="true"
+            android:onClick="zoomIn_onClick"
+            android:padding="10px"
+            android:scaleType="fitCenter"
+            android:src="@drawable/zoomin"
+            android:text="+" >
+        </ImageButton>
+
+        <ImageButton
+            android:id="@+id/zoomOut_button"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="2dip"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="#10555555"
+            android:cropToPadding="true"
+            android:onClick="zoomOut_onClick"
+            android:padding="10px"
+            android:scaleType="fitCenter"
+            android:src="@drawable/zoomout"
+            android:text="-" >
+        </ImageButton>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/curtainMain"
+        android:layout_width="95dip"
+        android:layout_height="95dip"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="#55000000"
+        android:clickable="true"
+        android:gravity="right|bottom"
+        android:orientation="horizontal"
+        android:paddingBottom="8dip"
+        android:paddingLeft="12dip"
+        android:paddingRight="12dip"
+        android:paddingTop="8dip" >
+
+        <ImageButton
+            android:id="@+id/center_button"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:onClick="centerPositionButton_onClick"
+            android:src="@drawable/arrow"
+            android:textSize="32px" android:longClickable="true"/>
+    </LinearLayout>
+</RelativeLayout>

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GooglePlayServices/GooglePlayServices.iml" filepath="$PROJECT_DIR$/GooglePlayServices/GooglePlayServices.iml" />
       <module fileurl="file://$PROJECT_DIR$/WheelGo/WheelGo.iml" filepath="$PROJECT_DIR$/WheelGo/WheelGo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WheelGo-android.iml" filepath="$PROJECT_DIR$/WheelGo-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/WheelGoAndroid.iml" filepath="$PROJECT_DIR$/WheelGoAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
     </modules>
   </component>
 </project>

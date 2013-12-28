@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:padding="10dp">
     <fragment
-        android:id="@+id/problems_fragment"
+        android:id="@+id/avoid_problems_fragment"
         android:name="cz.nuc.wheelgo.androidclient.ProblemToAvoidListFragment"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"

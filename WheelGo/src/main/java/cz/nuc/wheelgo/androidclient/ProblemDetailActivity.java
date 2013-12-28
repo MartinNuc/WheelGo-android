@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -18,9 +17,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.io.ByteArrayOutputStream;
-import java.net.ConnectException;
-import java.sql.SQLException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -32,9 +28,9 @@ import cz.nuc.wheelgo.androidclient.service.dto.ProblemDto;
  */
 public class ProblemDetailActivity extends Activity {
 
-    public static final String PROBLEM_ID = "problemid";
+    public static final String PROBLEM = "problemid";
     public static final String AVOID_PROBLEM = "avoidproblemid";
-    private long problemId;
+    private ProblemDto problem;
     private ProgressDialog progressDialog;
 
     @Override
@@ -45,9 +41,9 @@ public class ProblemDetailActivity extends Activity {
         getActionBar().setDisplayHomeAsUpEnabled(true);
 
         Intent intent = getIntent();
-        problemId = intent.getLongExtra(ProblemDetailActivity.PROBLEM_ID, -1);
+        problem = (ProblemDto) intent.getSerializableExtra(ProblemDetailActivity.PROBLEM);
 
-        if (problemId == -1)
+        if (problem == null)
         {
             Toast.makeText(this, "Wrong problem id.", Toast.LENGTH_SHORT).show();
             finish();
@@ -59,7 +55,7 @@ public class ProblemDetailActivity extends Activity {
             String ip = prefs.getString("server_ip", null);
             progressDialog = ProgressDialog.show(this, "", "Načítam detaily, čekejte...");
             progressDialog.setCancelable(true);
-            new LoadProblemDetailTask().execute(ip, problemId + "");
+            new LoadProblemDetailTask().execute(ip, problem.id + "");
         }
     }
 
@@ -89,7 +85,7 @@ public class ProblemDetailActivity extends Activity {
                 String ip = prefs.getString("server_ip", null);
                 progressDialog = ProgressDialog.show(this, "", "Mažu hlášení, čekejte...");
                 progressDialog.setCancelable(true);
-                new DeleteProblemTask().execute(ip, problemId + "");
+                new DeleteProblemTask().execute(ip, problem.id + "");
 
                 return true;
         }
@@ -99,7 +95,8 @@ public class ProblemDetailActivity extends Activity {
     public void avoidProblemButtonClick(View v)
     {
         Intent resultIntent = new Intent();
-        resultIntent.putExtra(AVOID_PROBLEM, problemId);
+        problem.imageBase64 = null;
+        resultIntent.putExtra(AVOID_PROBLEM, problem);
         setResult(Activity.RESULT_OK, resultIntent);
         finish();
     }

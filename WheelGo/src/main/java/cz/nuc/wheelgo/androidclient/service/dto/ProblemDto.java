@@ -1,12 +1,14 @@
 package cz.nuc.wheelgo.androidclient.service.dto;
 
+import java.io.Serializable;
+
 /**
  * Created with IntelliJ IDEA.
  * User: mist
  * Date: 13.11.13
  * Time: 18:12
  */
-public class ProblemDto {
+public class ProblemDto implements Serializable {
     public long id;
     public String description;
     public double latitude;

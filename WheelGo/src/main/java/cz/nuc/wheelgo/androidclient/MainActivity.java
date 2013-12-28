@@ -1,25 +1,30 @@
 package cz.nuc.wheelgo.androidclient;
 
-import android.app.Activity;
-;
 import android.app.ActionBar;
+import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.widget.DrawerLayout;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.support.v4.widget.DrawerLayout;
 import android.widget.TextView;
+
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.model.CameraPosition;
+import com.google.android.gms.maps.model.LatLng;
 
 import java.util.LinkedList;
 import java.util.List;
 
 import cz.nuc.wheelgo.androidclient.service.dto.ProblemDto;
+
+;
 
 public class MainActivity extends Activity
         implements NavigationDrawerFragment.NavigationDrawerCallbacks {
@@ -52,13 +57,11 @@ public class MainActivity extends Activity
                 (DrawerLayout) findViewById(R.id.drawer_layout));
     }
 
-    public void setNavigationProblems(List<ProblemDto> problems)
-    {
+    public void setNavigationProblems(List<ProblemDto> problems) {
         navigationProblems = problems;
     }
 
-    public List<ProblemDto> getNavigationProblems()
-    {
+    public List<ProblemDto> getNavigationProblems() {
         return navigationProblems;
     }
 
@@ -66,12 +69,7 @@ public class MainActivity extends Activity
         return navigationProblemsToAvoid;
     }
 
-    public void setNavigationProblemsToAvoid(List<ProblemDto> navigationProblemsToAvoid) {
-        this.navigationProblemsToAvoid = navigationProblemsToAvoid;
-    }
-
-    public void showProblemOnMap(ProblemDto problem)
-    {
+    public void showProblemOnMap(ProblemDto problem) {
         FragmentTransaction ft = getFragmentManager().beginTransaction();
         WheelGoMapFragment frag = new WheelGoMapFragment();
         ft.replace(R.id.container, frag);
@@ -137,6 +135,30 @@ public class MainActivity extends Activity
         return super.onOptionsItemSelected(item);
     }
 
+    public void centerPositionButton_onClick(View v)
+    {
+        WheelGoMapFragment fragment = (WheelGoMapFragment) (getFragmentManager().findFragmentById(R.id.googlemap));
+        if (fragment != null) {
+            fragment.centerPositionButton_onClick(v);
+        }
+    }
+
+    public void zoomIn_onClick(View v)
+    {
+        WheelGoMapFragment fragment = (WheelGoMapFragment) (getFragmentManager().findFragmentById(R.id.googlemap));
+        if (fragment != null) {
+            fragment.zoomIn_onClick(v);
+        }
+    }
+
+    public void zoomOut_onClick(View v)
+    {
+        WheelGoMapFragment fragment = (WheelGoMapFragment) (getFragmentManager().findFragmentById(R.id.googlemap));
+        if (fragment != null) {
+            fragment.zoomOut_onClick(v);
+        }
+    }
+
     /**
      * A placeholder fragment containing a simple view.
      */
@@ -166,15 +188,19 @@ public class MainActivity extends Activity
         public void onDestroyView() {
             super.onDestroyView();
             Fragment fragment = (getFragmentManager().findFragmentById(R.id.googlemap));
-            if (fragment != null)
-            {
+            if (fragment != null) {
                 FragmentTransaction ft = getActivity().getFragmentManager().beginTransaction();
                 ft.remove(fragment);
                 ft.commit();
             }
             fragment = (getFragmentManager().findFragmentById(R.id.problems_fragment));
-            if (fragment != null)
-            {
+            if (fragment != null) {
+                FragmentTransaction ft = getActivity().getFragmentManager().beginTransaction();
+                ft.remove(fragment);
+                ft.commit();
+            }
+            fragment = (getFragmentManager().findFragmentById(R.id.avoid_problems_fragment));
+            if (fragment != null) {
                 FragmentTransaction ft = getActivity().getFragmentManager().beginTransaction();
                 ft.remove(fragment);
                 ft.commit();
@@ -183,13 +209,12 @@ public class MainActivity extends Activity
 
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                Bundle savedInstanceState) {
+                                 Bundle savedInstanceState) {
             Integer tabIndex = getArguments().getInt(ARG_SECTION_NUMBER);
 
             View rootView;
 
-            switch (tabIndex)
-            {
+            switch (tabIndex) {
                 case 1:
                     rootView = inflater.inflate(R.layout.map, container, false);
                     break;

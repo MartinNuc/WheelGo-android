@@ -7,7 +7,6 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.location.Criteria;
 import android.location.Location;
@@ -20,7 +19,7 @@ import android.util.LruCache;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
-import android.widget.ImageView;
+import android.view.View;
 import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -33,7 +32,6 @@ import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.PolylineOptions;
 
-import java.io.ByteArrayOutputStream;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedList;
@@ -117,6 +115,9 @@ public class WheelGoMapFragment extends MapFragment implements GoogleMap.OnCamer
         getMap().setOnMapLongClickListener(this);
         getMap().setMyLocationEnabled(true);
         getMap().setOnInfoWindowClickListener(this);
+
+        getMap().getUiSettings().setMyLocationButtonEnabled(false);
+        getMap().getUiSettings().setZoomControlsEnabled(false);
 
         if (shownProblem != null)
         {
@@ -352,19 +353,21 @@ public class WheelGoMapFragment extends MapFragment implements GoogleMap.OnCamer
         switch (requestCode) {
             case (PROBLEM_DETAIL_ACTIVITY_RESULT):
                 if (resultCode == Activity.RESULT_OK) {
-                    Long problemToAvoidId = data.getLongExtra(ProblemDetailActivity.AVOID_PROBLEM, -1);
-                    if (problemToAvoidId != -1)
+                    ProblemDto p = (ProblemDto) data.getSerializableExtra(ProblemDetailActivity.AVOID_PROBLEM);
+                    if (p != null)
                     {
-                        ProblemDto p = new ProblemDto();
-                        p.id = problemToAvoidId;
                         if (avoidedProblems.contains(p))
                         {
                             avoidedProblems.remove(p);
+                            ((MainActivity) getActivity()).getNavigationProblemsToAvoid().remove(p);
                         }
                         else
                         {
                             avoidedProblems.add(p);
+                            ((MainActivity) getActivity()).getNavigationProblemsToAvoid().add(p);
                         }
+
+                        //((MainActivity) getActivity()).setNavigationProblemsToAvoid(new LinkedList<ProblemDto>(avoidedProblems));
 
                         redrawMap();
 
@@ -418,11 +421,29 @@ public class WheelGoMapFragment extends MapFragment implements GoogleMap.OnCamer
         this.shownProblem = p;
     }
 
+    public void centerPositionButton_onClick(View v)
+    {
+        float zoom = getMap().getCameraPosition().zoom;
+        CameraPosition cameraPosition = new CameraPosition.Builder().target(
+                new LatLng(userPositionLatitude, userPositionLongitude)).zoom(zoom).build();
+        getMap().animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));
+    }
+
+    public void zoomIn_onClick(View v)
+    {
+        getMap().animateCamera(CameraUpdateFactory.zoomIn());
+    }
+
+    public void zoomOut_onClick(View v)
+    {
+        getMap().animateCamera(CameraUpdateFactory.zoomOut());
+    }
+
     @Override
     public void onInfoWindowClick(Marker marker) {
         ProblemDto p = markers.get(marker);
         Intent intent = new Intent(getActivity(), ProblemDetailActivity.class);
-        intent.putExtra(ProblemDetailActivity.PROBLEM_ID, p.id);
+        intent.putExtra(ProblemDetailActivity.PROBLEM, p);
         startActivityForResult(intent, PROBLEM_DETAIL_ACTIVITY_RESULT);
         /*if (avoidedProblems.contains(p))
         {
